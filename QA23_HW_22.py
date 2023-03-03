@@ -1,17 +1,10 @@
-# Registration ( lvl - 1 )
+# Until "STOP"
 
-# 1) Create an empty array [] (Don’t forget about names for variables)
+# data_bace =[]
 
-# 2) Create an empty string and then save it in variable “register_data”
+# 1) Registration
 
-# 3) Get login and password from user and then => save data into “register_data” . 
-
-# 4) if login length less than 5 characters print an Error
-
-# 5) if password contains more than 10 symbols throw an Error 
-
-# USE : split , slice , create other variables .
-# Do everything that you want to , but remember that all data above must exist .
+# 2) Authorization --> greeting
 
 
 # Registration:
